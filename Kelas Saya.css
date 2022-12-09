@@ -1,0 +1,239 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.kelas-saya{
+    position: absolute;
+    width: 69px;
+    height: 15px;
+    left: 140px;
+    top: 55px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+
+   
+    align-items: center;
+
+    /* Accent */
+
+    color: #BE2A7A;
+
+}
+
+.beranda {
+    position: absolute;
+    width: 58px;
+    height: 15px;
+    left: 219px;
+    top: 55px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+
+  
+    align-items: center;
+
+    /* Accent */
+
+    color: #BE2A7A;
+}
+
+.judul-kelas-saya {
+    position: absolute;
+    width: 145px;
+    height: 45px;
+    left: 140px;
+    top: 80px;
+    
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+    
+    
+    /* Text */
+    
+    color: #3F0C2A;
+    
+}
+
+#uiux-class {
+    position: absolute;
+    width: 965px;
+    height: 500px;
+    left: 45px;
+    top: 150px;
+
+}
+
+.text-live-session {
+    position: absolute;
+    width: 165px;
+    height: 45px;
+    right: 140px;
+    top: 150px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+
+
+    /* Text */
+
+    color: #3F0C2A;
+
+}
+
+#icon-hari {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    right: 142px;
+    top: 212px;
+
+}
+
+.hari {
+    position: absolute;
+    list-style: none;
+    width: 128px;
+    height: 25px;
+    right: 167px;
+    top: 210px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    letter-spacing: 0.01em;
+
+    /* Text */
+
+    color: #3F0C2A;
+
+}
+
+#icon-jam {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    right: 140px;
+    top: 246px;
+}
+
+.jam {
+    position: absolute;
+    list-style: none;
+    width: 120px;
+    height: 25px;
+    right: 169px;
+    top: 245px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    letter-spacing: 0.01em;
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+#instagram {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    right: 242px;
+    top: 300px;
+    
+}
+
+#telegram {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    right: 191px;
+    top: 300px;
+
+}
+
+#whatsapp {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    right: 140px;
+    top: 300px;
+    
+}
+
+.text-kelas {
+    position: absolute;
+    width: 256px;
+    height: 50px;
+    right: 142px;
+    top: 515px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+
+    text-align: right;
+    letter-spacing: 0.01em;
+
+    /* Accent */
+
+    color: #BE2A7A;
+}
+
+.masuk-kelas {
+    position: absolute;
+    width: 192px;
+    height: 60px;
+    right: 140px;
+    top: 590px;
+
+    /* primary */
+
+    background: #FF6EBC;
+    border-radius: 5px;
+    border: none;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+  
+    align-items: center;
+    text-align: center;
+
+    /* Text */
+
+    color: #3F0C2A;
+}

@@ -1,0 +1,303 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.judul-pembayaran {
+    position: absolute;
+    width: 171px;
+    height: 45px;
+    left: 140px;
+    top: 80px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+.bg-pembayaran {
+    position: absolute;
+    width: 640px;
+    height: 400px;
+    left: 140px;
+    top: 150px;
+
+    /* Accent */
+
+    background: #BE2A7A;
+    border-radius: 10px;
+}
+
+.list-harga {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 166px;
+    top: 171px;
+
+    /* Accent 2 */
+
+    background: #FAFAFA;
+    border-radius: 5px;
+    list-style: none;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+    text-align: center;
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+.list-kelas {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 363px;
+    height: 50px;
+    left: 391px;
+    top: 171px;
+
+    /* Accent 2 */
+
+    background: #FAFAFA;
+    border-radius: 5px;
+    list-style: none;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+    text-align: center;
+
+    /* Text */
+
+    color: #3F0C2A;
+
+}
+
+.bg-kotak-bayar {
+    position: absolute;
+    width: 588px;
+    height: 284px;
+    left: 166px;
+    top: 245px;
+
+    /* Accent 2 */
+
+    background: #FAFAFA;
+    border-radius: 10px;
+}
+
+.metode-pembayaran {
+    position: absolute;
+    width: 185px;
+    height: 24px;
+    left: 204px;
+    top: 267px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+.bri {
+    position: absolute;
+    width: 55px;
+    height: 25px;
+    left: 204px;
+    top: 315px;
+
+}
+
+.bni {
+    position: absolute;
+    width: 57px;
+    height: 25px;
+    left: 359px;
+    top: 315px;
+}
+
+.dana {
+    position: absolute;
+    width: 76px;
+    height: 25px;
+    left: 516px;
+    top: 315px;
+
+}
+
+.alur-pembayaran {
+    position: absolute;
+    width: 522px;
+    height: 75px;
+    left: 194px;
+    top: 439px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    /* or 179% */
+
+    letter-spacing: 0.01em;
+
+    /* Text */
+
+    color: #959595;
+
+}
+
+.bg-slip-bayar {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 450px;
+    height: 400px;
+    left: 810px;
+    top: 150px;
+
+    /* Accent */
+
+    border: 5px solid #BE2A7A;
+    border-radius: 10px;
+}
+
+.tanda-petik {
+    position: absolute;
+    width: 21px;
+    height: 25px;
+    left: 1025px;
+    top: 249px;
+    
+    font-family: 'Passion One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 25px;
+    /* identical to box height, or 54% */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.01em;
+    
+    color: #000000;
+    
+}
+
+.text-bayar {
+    position: absolute;
+    width: 320px;
+    height: 50px;
+    left: 875px;
+    top: 289px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+.button-bayar {
+    position: absolute;
+    border: none;
+    background-color: transparent;
+    width: 320px;
+    height: 100px;
+    left: 876px;
+    top: 414px;
+
+}
+
+.bg-footer {
+    position: absolute;
+    width: 1120px;
+    height: 213px;
+    left: 140px;
+    top: 600px;
+    
+    /* Accent */
+    
+    background: #BE2A7A;
+    border-radius: 10px;
+}
+
+.text-footer {
+    position: absolute;
+    width: 736px;
+    height: 25px;
+    left: 332px;
+    top: 644px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    color: #FFFFFF;
+}
+
+.instagram {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 575px;
+    top: 694px;
+}
+
+.telegram {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 675px;
+    top: 694px;
+}
+
+.whatsapp {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 775px;
+    top: 694px;
+
+}

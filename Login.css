@@ -1,0 +1,54 @@
+*,
+html {
+    background-color: #FFFFFF;
+    margin:0;
+    padding: 0;
+}
+
+.Logo {
+    /* position: absolute;
+    
+    width: 70px;
+    height: 59.15px;
+    left: 710px;
+    top: 75px; */
+
+    background-color: transparent;
+    width: 100%;
+    height: fit-content;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-login {
+    position: absolute;
+    border:none;
+    width: 160px;
+    height: 50px;
+    left: 700px;
+    top: 600px;
+
+    /* primary */
+
+    background: #FF6EBC;
+    border-radius: 5px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+    
+    align-items: center;
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+.login-isi {
+    margin-top: 250px;
+    margin-left: 550px;
+}
