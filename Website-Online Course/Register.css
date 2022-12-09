@@ -1,0 +1,41 @@
+.Logo {
+    background-color: transparent;
+    width: 100%;
+    height: fit-content;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-register {
+    position: absolute;
+    border:none;
+    width: 160px;
+    height: 50px;
+    left: 700px;
+    top: 600px;
+
+    /* primary */
+
+    background: #FF6EBC;
+    border-radius: 5px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+    
+    align-items: center;
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+.form-regis {
+   
+    margin-left: 550px;
+    margin-top: 100px;
+}

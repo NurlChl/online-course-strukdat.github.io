@@ -1,0 +1,252 @@
+*,
+html {
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.Logo {
+    position: absolute;
+    width: 70px;
+    height: 59.15px;
+    left: 710px;
+    top: 50px;
+
+}
+
+.h1-welcome {
+    position: absolute;
+    width: 331px;
+    height: 69px;
+    left: calc(50% - 331px/2 - 0.5px);
+    top: calc(50% - 69px/2 - 181.5px);
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 69px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Text */
+
+    color: #3F0C2A;
+
+
+}
+
+.p1-welcome {
+    position: absolute;
+    width: 393px;
+    height: 48px;
+    left: calc(50% - 393px/2 - 0.5px);
+    top: calc(50% - 48px/2 - 115px);
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+
+    /* Text */
+
+    color: #3F0C2A;
+
+}
+
+.Alur-awal {
+    position: absolute;
+    width: 178px;
+    height: 24px;
+    left: calc(50% - 178px/2);
+    top: 452px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Accent */
+
+    color: #BE2A7A;
+
+
+
+}
+
+#Alur1 {
+    position: absolute;
+    width: 780px;
+    height: 30px;
+    left: 355px;
+    top: 500px;
+
+}
+
+.ul-alur {
+    list-style: none;
+    
+}
+
+.register{
+    position: absolute;
+    width: 65px;
+    height: 24px;
+    left: calc(50% - 65px/2 - 374.5px);
+    top: 550px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    /* Text */
+    
+    color: #959595;
+}
+
+.login {
+    position: absolute;
+    width: 43px;
+    height: 24px;
+    left: calc(50% - 43px/2 - 224.5px);
+    top: 550px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Text */
+
+    color: #959595;
+}
+
+.beranda {
+    position: absolute;
+    width: 69px;
+    height: 24px;
+    left: calc(50% - 69px/2 - 74.5px);
+    top: 550px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Text */
+
+    color: #959595;
+
+
+}
+
+.daftar-kelas {
+    position: absolute;
+    width: 97px;
+    height: 24px;
+    left: calc(50% - 97px/2 + 75.5px);
+    top: 550px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Text */
+
+    color: #959595;
+}
+
+.pembayaran {
+    position: absolute;
+    width: 105px;
+    height: 24px;
+    left: calc(50% - 105px/2 + 225.5px);
+    top: 550px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Text */
+
+    color: #959595;
+
+}
+
+.masuk-kelas {
+    position: absolute;
+    width: 99px;
+    height: 24px;
+    left: calc(50% - 99px/2 + 375.5px);
+    top: 550px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Text */
+
+    color: #959595;
+
+}
+
+.button-next {
+    position: absolute;
+    width: 160px;
+    height: 50px;
+    left: calc(50% - 160px/2);
+    top: calc(50% - 50px/2 + 285px);
+
+    background: #FF6EBC;
+    border-radius: 5px;
+    border: none;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+   
+    align-items: center;
+    text-align: center;
+
+    color: #3F0C2A;
+    }
+

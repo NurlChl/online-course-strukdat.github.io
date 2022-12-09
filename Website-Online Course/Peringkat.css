@@ -1,0 +1,364 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+
+}
+
+.peringkat {
+    position: absolute;
+    width: 62px;
+    height: 15px;
+    left: calc(50% - 62px/2 - 529px);
+    top: 55px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+    
+   
+    align-items: center;
+    
+    /* Accent */
+    
+    color: #BE2A7A;
+    
+}
+
+.beranda {
+    position: absolute;
+    width: 58px;
+    height: 15px;
+    left: calc(50% - 58px/2 - 459px);
+    top: 55px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+
+    
+    align-items: center;
+
+    /* Accent */
+
+    color: #BE2A7A;
+
+}
+
+.judul-peringkat {
+    position: absolute;
+    width: 132px;
+    height: 45px;
+    left: calc(50% - 132px/2 - 494px);
+    top: 80px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+.bg-peringkat1 {
+    position: absolute;
+    width: 736px;
+    height: 165px;
+    left: calc(50% - 736px/2 - 192px);
+    top: 165px;
+
+    /* Accent */
+
+    background: #BE2A7A;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.nama-saya {
+    position: absolute;
+    width: 82px;
+    height: 69px;
+    left: calc(50% - 82px/2 - 471px);
+    top: 214px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 69px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Accent 2 */
+
+    color: #FAFAFA;
+
+}
+
+.bg-peringkat2 {
+    position: absolute;
+    width: 212px;
+    height: 146px;
+    left: calc(50% - 212px/2 + 48px);
+    top: 174px;
+
+    /* Accent 2 */
+
+    background: #FAFAFA;
+    border-radius: 10px;
+}
+
+.judul-score-saya {
+    position: absolute;
+    width: 146px;
+    height: 45px;
+    left: calc(50% - 146px/2 + 48px);
+    top: 187px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+#hasilScore {
+    position: absolute;
+    width: 76px;
+    height: 69px;
+    left: calc(50% - 76px/2 + 48px);
+    top: 234px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 69px;
+    /* identical to box height */
+
+   
+    align-items: center;
+    text-align: center;
+
+    /* Text */
+
+    color: #3F0C2A;
+
+}
+
+.bg-peringkat3 { 
+    position: absolute;
+    width: 255px;
+    height: 165px;
+    left: calc(50% - 255px/2 + 432.5px);
+    top: 165px;
+
+    /* primary */
+
+    background: #FF6EBC;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.text-peringkat {
+    position: absolute;
+    width: 129px;
+    height: 45px;
+    left: calc(50% - 129px/2 + 432.5px);
+    top: 182px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Accent 2 */
+
+    color: #FAFAFA;
+}
+
+#hasilRanking {
+    position: absolute;
+    width: 16px;
+    height: 69px;
+    left: calc(50% - 16px/2 + 433px);
+    top: 234px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 69px;
+    /* identical to box height */
+
+   
+    align-items: center;
+    text-align: center;
+
+    /* Accent 2 */
+
+    color: #FAFAFA;
+}
+
+.bg-search {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1120px;
+    height: 75px;
+    left: calc(50% - 1120px/2);
+    top: 430px;
+
+    /* Accent */
+
+    border: 5px solid #BE2A7A;
+    border-radius: 10px;
+}
+
+.text-search {
+    position: absolute;
+    width: 106px;
+    height: 45px;
+    left: calc(50% - 106px/2 - 473px);
+    top: 445px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+
+
+    /* Accent text */
+
+    color: #D7D7D7;
+}
+
+.icon-search {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: calc(50% - 50px/2 + 505px);
+    top: 443px;
+
+}
+
+.bg-tabel {
+    position: absolute;
+    width: 1120px;
+    height: 1267px;
+    left: calc(50% - 1120px/2);
+    top: 555px;
+
+    /* Accent */
+
+    background: #BE2A7A;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+#namaPeserta {
+    position: absolute;
+    width: 150px;
+    height: 1170px;
+    background: #FAFAFA;
+    left: 1100px;
+    top: 630px;
+    border-radius: 5px;
+
+    color: #3F0C2A;
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 65px;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.data{
+    position: absolute;
+    width: 400px;
+    height: 1170px;
+    left: 225px;
+    top: 630px;
+    border-radius:5px;
+    background-color: #FAFAFA;
+
+    color: #3F0C2A;
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 65px;
+    align-items: center;
+    text-align: center;
+
+}
+
+#searching{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1120px;
+    height: 75px;
+    left: calc(50% - 1120px/2);
+    top: 430px;
+
+    /* Accent */
+
+    border: 5px solid #BE2A7A;
+    border-radius: 10px;
+
+    
+    
+}
+
+#dataKelas {
+    position: absolute;
+    width: 300px;
+    height: 1170px;
+    background-color: #FAFAFA;
+    left: 700px;
+    top: 630px;
+    border-radius: 5px;
+
+    color: #3F0C2A;
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 65px;
+    align-items: center;
+    text-align: center;
+    list-style: none;
+
+}
+
+a {
+    color: #3F0C2A;
+}

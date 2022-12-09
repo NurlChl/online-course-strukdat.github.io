@@ -1,0 +1,383 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.beranda {
+    position: absolute;
+    width: 76px;
+    height: 15px;
+    left: 140px;
+    top: 55px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+
+   
+    align-items: center;
+
+    /* Accent */
+
+    color: #BE2A7A;
+
+}
+
+.daftar-kelas {
+    position: absolute;
+    width: 65px;
+    height: 15px;
+    left: 226px;
+    top: 55px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+
+   
+    align-items: center;
+
+    /* Accent */
+
+    color: #BE2A7A;
+}
+
+.judul-daftar-kelas {
+    position: absolute;
+    width: 165px;
+    height: 45px;
+    left: 140px;
+    top: 80px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+
+
+    /* Text */
+
+    color: #3F0C2A;
+
+}
+
+#UIUX {
+    position: absolute;
+    width: 783px;
+    height: 414px;
+    left: 56px;
+    top: 136px;
+
+}
+
+.deskripsi1 {
+    position: absolute;
+    width: 157px;
+    height: 45px;
+    right: 431px;
+    top: 150px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+.deskripsi-uiux {
+    position: absolute;
+    width: 448px;
+    height: 225px;
+    right: 140px;
+    top: 215px;
+    list-style: none;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+
+
+    /* Text */
+
+    color: #3F0C2A;
+
+}
+
+.kelas-daftar1 {
+    position: absolute;
+    width: 160px;
+    height: 50px;
+    right: 428px;
+    top: 479px;
+
+    /* primary */
+
+    background: #FF6EBC;
+    border-radius: 5px;
+    border: none;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+    align-items: center;
+    text-align: center;
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+.harga-uiux {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    right: 178px;
+    top: 479px;
+
+    /* primary */
+
+    border: 3px solid #FF6EBC;
+    border-radius: 5px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+    align-items: center;
+    text-align: center;
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+#react-js {
+    position: absolute;
+    width: 781px;
+    height: 404px;
+    left: 56px;
+    top: 696px;
+    
+}
+
+.kelas-daftar2 {
+    position: absolute;
+    width: 160px;
+    height: 50px;
+    right: 428px;
+    top: 1029px;
+
+    /* primary */
+
+    background: #FF6EBC;
+    border-radius: 5px;
+    border: none;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+    align-items: center;
+    text-align: center;
+
+    /* Text */
+
+    color: #3F0C2A;
+
+}
+
+.harga-reactJS {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    right: 178px;
+    top: 1029px;
+
+    /* primary */
+
+    border: 3px solid #FF6EBC;
+    border-radius: 5px;
+    background-color: transparent;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+    align-items: center;
+    text-align: center;
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+.deskripsi2 {
+    position: absolute;
+    width: 157px;
+    height: 45px;
+    right: 431px;
+    top: 700px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+.deskripsi-reactJS {
+    position: absolute;
+    list-style: none;
+    width: 448px;
+    height: 225px;
+    right: 140px;
+    top: 765px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+#comingsoon {
+    position: absolute;
+    width: 640px;
+    height: 400px;
+    left: 140px;
+    top: 1250px;
+}
+
+.kelas-daftar3 {
+    position: absolute;
+    width: 160px;
+    height: 50px;
+    right: 428px;
+    top: 1579px;
+
+    /* primary */
+
+    background: #FF6EBC;
+    border-radius: 5px;
+    border: none;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+    align-items: center;
+    text-align: center;
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+.harga-comingsoon {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    right: 178px;
+    top: 1579px;
+
+    /* primary */
+
+    border: 3px solid #FF6EBC;
+    border-radius: 5px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+    align-items: center;
+    text-align: center;
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+.deskripsi3 {
+    position: absolute;
+    width: 157px;
+    height: 45px;
+    right: 431px;
+    top: 1250px;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+
+
+    /* Text */
+
+    color: #3F0C2A;
+}
+
+.deskripsi-comingsoon {
+    position: absolute;
+    list-style: none;
+    width: 448px;
+    height: 225px;
+    right: 140px;
+    top: 1315px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+
+
+    /* Text */
+
+    color: #3F0C2A;
+
+}
