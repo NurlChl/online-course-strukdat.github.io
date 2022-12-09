@@ -1,0 +1,1 @@
+# online-course-strukdat.github.io
